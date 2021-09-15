@@ -1,0 +1,1 @@
+{"Fruta":"Banana", "Preço":8.50,"Tipo":"nanica", "Origem":"Brasil"}
